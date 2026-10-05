@@ -178,6 +178,7 @@ figcaption.cap{margin-top:12px;font-size:13.5px;color:var(--muted)}
 .person{display:grid;grid-template-columns:minmax(0,.82fr) minmax(0,1fr);background:var(--surface);border:1px solid var(--line)}
 .person figure{position:relative;margin:0;min-height:340px;background:var(--line)}
 .person img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 25%}
+.person img.pos-top{object-position:50% 12%}
 .person-body{display:flex;flex-direction:column;padding:34px 32px 30px}
 .person h3{font-size:27px}
 .role{margin:6px 0 18px;font-size:14.5px;font-weight:600;color:var(--brass-text)}
