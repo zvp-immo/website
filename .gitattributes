@@ -1,0 +1,8 @@
+# Einheitliche Zeilenenden für Textdateien, Binärdateien unverändert lassen
+* text=auto eol=lf
+*.pdf   binary
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.ico   binary
+*.woff2 binary
