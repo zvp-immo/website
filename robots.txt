@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zvp-immo.de/sitemap.xml
+Sitemap: https://zvp-immobilien.com/sitemap.xml
